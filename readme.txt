@@ -1,7 +1,7 @@
 === Amazon Payments ===
 Contributors: Tips and Tricks HQ, bestwebsoft
 Donate link: https://www.tipsandtricks-hq.com/amazon-payments-plugin-for-wordpress
-Tags: Amazon, payment, Amazon Payments, Amazon Orders, Amazon Settings, payment method, transaction, order, buyer
+Tags: Amazon, payment, Amazon Payments, Amazon Orders, Amazon Settings, payment method, transaction, order, buyer, aws
 Requires at least: 3.5
 Tested up to: 4.0
 Stable tag: 1.0
