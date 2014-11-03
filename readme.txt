@@ -14,7 +14,7 @@ Amazon Payments plugin allows you to create payment buttons to accept payment fo
 
 This plugin allows you to create payment buttons that you can use to accept payment via Amazon payment gateway. You will need to have an Amazon merchant account.
 
-View plugin documentation on the (amazon payments plugin page)[https://www.tipsandtricks-hq.com/amazon-payments-plugin-for-wordpress].
+View plugin documentation on the [amazon payments plugin page](https://www.tipsandtricks-hq.com/amazon-payments-plugin-for-wordpress).
 
 = How to use the plugin =
 
