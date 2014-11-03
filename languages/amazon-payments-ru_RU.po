@@ -1,0 +1,265 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: amazon-payments\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-10-23 11:23+0200\n"
+"PO-Revision-Date: 2014-10-23 11:23+0200\n"
+"Last-Translator: bestwebsoft.com <plugins@bestwebsoft.com>\n"
+"Language-Team: bestwebsoft.com <plugin@bestwebsoft.com>\n"
+"Language: ru_RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _n;__;_e\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Generator: Poedit 1.6.10\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: amazon-payments.php:33
+msgid "Amazon Orders"
+msgstr "Амазон Заказы"
+
+#: amazon-payments.php:34 amazon-payments.php:254
+msgid "Amazon Settings"
+msgstr "Амазон Настройки"
+
+#: amazon-payments.php:83 amazon-payments.php:97
+msgid "Settings"
+msgstr "Настройки"
+
+#: amazon-payments.php:261
+msgid "Notice:"
+msgstr "Уведомление:"
+
+#: amazon-payments.php:261
+msgid ""
+"The plugin's settings have been changed. In order to save them please don't "
+"forget to click the 'Save Changes' button."
+msgstr ""
+"Настройки плагина были изменены. Чтобы сохранить их, пожалуйста, не забудьте "
+"нажать кнопку \"Сохранить изменения\"."
+
+#: amazon-payments.php:265
+msgid ""
+"If you would like to add the button pay to your website, just copy and paste "
+"this shortcode to your post or page or widget, and select Options:"
+msgstr ""
+"Если вы хотели бы добавить кнопку Оплатить на ваш сайт, просто скопируйте и "
+"вставьте этот короткий код в свой пост или страницу или виджет и укажите "
+"параметры:"
+
+#: amazon-payments.php:271
+msgid "Access Key"
+msgstr "Ключ доступа"
+
+#: amazon-payments.php:275
+msgid "An application identifier associates your site, and Amazon application."
+msgstr "Идентификатор приложения связывает ваш сайт, и приложение Amazon."
+
+#: amazon-payments.php:280
+msgid "Secret Key"
+msgstr "Секретный ключ"
+
+#: amazon-payments.php:284
+msgid "The secret code from Amazon."
+msgstr "Секретный код от Амазон"
+
+#: amazon-payments.php:289
+msgid "Abandon Url"
+msgstr "Адрес в случае отказа"
+
+#: amazon-payments.php:293
+msgid ""
+"Optionally, enter the URL where senders should be redirected if they cancel "
+"their transaction."
+msgstr ""
+"При желании можно ввести URL, на который отправитель будет  перенаправлен, "
+"если он отменит транзакцию."
+
+#: amazon-payments.php:298
+msgid "URL if transaction the complete"
+msgstr "URL, если сделка завершена"
+
+#: amazon-payments.php:302
+msgid ""
+"Optionally enter the URL where buyers should be redirected after they "
+"complete the transaction."
+msgstr ""
+"По желанию введите адрес, по которому покупатели должны быть перенаправлены "
+"после завершения сделки."
+
+#: amazon-payments.php:307
+msgid "Ipn Url"
+msgstr "Ipn ссылка"
+
+#: amazon-payments.php:311
+msgid ""
+"Optionally, type the URL of your host page to which Amazon Payments should "
+"send the IPN transaction information."
+msgstr ""
+"При желании, введите адрес вашей страницы хоста, на который Amazon должн "
+"отправить информацию о транзакции IPN."
+
+#: amazon-payments.php:316
+msgid "Environment"
+msgstr "Адрес"
+
+#: amazon-payments.php:320
+msgid "Create a environment"
+msgstr "Выбрать адрес"
+
+#: amazon-payments.php:324
+msgid "If desired, you can switch between the Sandbox and products"
+msgstr "При желании, вы можете переключаться между сендбоксом и продукцией"
+
+#: amazon-payments.php:330
+msgid "Save all changes"
+msgstr "Сохранить все параметры"
+
+#: amazon-payments.php:405
+msgid "One order was delete successfully"
+msgstr "Один заказ удален полностью"
+
+#: amazon-payments.php:407
+msgid "There are some problems while deleting order."
+msgstr "Есть некоторые проблемы при удалении заказа."
+
+#: amazon-payments.php:420
+msgid "One order was moved to Trash."
+msgstr "Один заказ был отправлен в Карзину"
+
+#: amazon-payments.php:421
+msgid "Undo"
+msgstr "Отменить"
+
+#: amazon-payments.php:423
+msgid "Problems while moving order to Trash."
+msgstr "Проблемы во время перемещения заказа в карзину."
+
+#: amazon-payments.php:423 amazon-payments.php:795
+msgid " Please, try it later."
+msgstr "Пожалуйста, попробуйте позже."
+
+#: amazon-payments.php:429
+msgid "One order was restored."
+msgstr "Один заказ васстановлен"
+
+#: amazon-payments.php:432
+msgid "Problems during the restoration order"
+msgstr "Проблемы при восстановлении заказа"
+
+#: amazon-payments.php:476
+msgid "Mark as Trash"
+msgstr "Отправить в Карзину"
+
+#: amazon-payments.php:478
+msgid "Trash status"
+msgstr "Статус Карзины"
+
+#: amazon-payments.php:485
+msgid "- Unknown orders info - "
+msgstr "- нет ни одной покупки -"
+
+#: amazon-payments.php:494
+msgid " - No payment - "
+msgstr " - Нет оплаты - "
+
+#: amazon-payments.php:502
+msgid " - No amount in this order - "
+msgstr "- Нет суммы в этом заказе -"
+
+#: amazon-payments.php:509 amazon-payments.php:516 amazon-payments.php:523
+#: amazon-payments.php:530 amazon-payments.php:537
+msgid "- Unknown buyer name-"
+msgstr "- Неизвестно имя покупателя -"
+
+#: amazon-payments.php:617
+msgid "buyer"
+msgstr "покупатель"
+
+#: amazon-payments.php:618
+msgid "buyers"
+msgstr "покупатели"
+
+#: amazon-payments.php:655
+msgid "No order that was marked as Trash."
+msgstr "Корзина пуста."
+
+#: amazon-payments.php:657
+msgid "No order found."
+msgstr "Нет заказов."
+
+#: amazon-payments.php:689
+msgid "Buyer Info"
+msgstr "Информация о покупателе"
+
+#: amazon-payments.php:690
+msgid "Name Product"
+msgstr "Название товара"
+
+#: amazon-payments.php:691
+msgid "Amount"
+msgstr "Сумма"
+
+#: amazon-payments.php:692
+msgid "Reference Id"
+msgstr "Ссылка Id"
+
+#: amazon-payments.php:693
+msgid "Status"
+msgstr "Статус"
+
+#: amazon-payments.php:694
+msgid "Payment Method"
+msgstr "Способ оплаты"
+
+#: amazon-payments.php:706
+msgid "All"
+msgstr "Все"
+
+#: amazon-payments.php:707 amazon-payments.php:758
+msgid "Trash"
+msgstr "Карзина"
+
+#: amazon-payments.php:742
+msgid "Move Order Info to Trash"
+msgstr "Переместить заказ в Корзину"
+
+#: amazon-payments.php:745
+msgid "Restore order information"
+msgstr "Восстановить информацию о заказе"
+
+#: amazon-payments.php:746
+msgid "Delete order information"
+msgstr "Удалить информацию о заказе"
+
+#: amazon-payments.php:761
+msgid "Delete"
+msgstr "Удалить"
+
+#: amazon-payments.php:762
+msgid "Restore"
+msgstr "Восстановить"
+
+#: amazon-payments.php:788
+msgid "List of buyer"
+msgstr "Список покупателей"
+
+#: amazon-payments.php:790
+#, php-format
+msgid "Search results for &#8220;%s&#8221;"
+msgstr "Результаты поиска в &#8220;%s&#8221;"
+
+#: amazon-payments.php:795
+msgid "WARNING: "
+msgstr "ВНИМАНИЕ:"
+
+#~ msgid "Return Url"
+#~ msgstr "Адрес возврата по завершению сделки"
+
+#~ msgid "Amazon Payments Settings"
+#~ msgstr "Настройки Амазон Платижей"
+
+#~ msgid "Delete payment information"
+#~ msgstr "Удалить информацию о заказе"
